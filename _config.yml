@@ -71,7 +71,6 @@ social:
     - "https://www.facebook.com/faizanvahevaria"
     - "https://www.linkedin.com/in/faizanvahevaria"
     - "https://www.instagram.com/faizanvahevaria"
-    - "https://plus.google.com/+FaizanVahevaria"
 
 
 
@@ -96,14 +95,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/faizanvahevaria"
+  facebook         : "faizanvahevaria"
   foursquare       :
-  github           : "https://github.com/faizanvahevaria"
-  google_plus      : "https://plus.google.com/+FaizanVahevaria"
+  github           : "faizanvahevaria"
+  google_plus      : "FaizanVahevaria"
   keybase          :
-  instagram        : "https://www.instagram.com/faizanvahevaria"
+  instagram        : "faizanvahevaria"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/faizanvahevaria"
+  linkedin         : "faizanvahevaria"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
