@@ -2,8 +2,6 @@
 layout: single
 title: "Why did I stop watching the news at the early stage of my life?"
 categories:
-  - My Life Stories
-  - Life Advice
   - Wisdom
 tags:
   - Life Advice
