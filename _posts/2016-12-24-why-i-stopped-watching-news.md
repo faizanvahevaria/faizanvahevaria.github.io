@@ -12,8 +12,6 @@ tags:
   - Life Story
 excerpt: "Really Grateful for receiving this advice at very young age in my life. This really can change your perception of life."
 
-header:
-  image: /assets/images/stop-watching-the-news.jpg
 ---
 
 I have always been doing things before anyone else(the ones I know) does in my age Like, School, Job, Business, Marriage(probably).
