@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Faizan Vahevaria | The guy you would love to talk to about Anything"
-title_separator          : "-"
+title                    : "Faizan V"
+title_separator          : "|"
 name                     : "Faizan Vahevaria"
-description              : "An amazing website."
+description              : "Faizan laying out things he learns on the journey of life as an Indian Entrepreneur"
 url                      : "https://faizanv.in" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "faizanvahevaria/faizanvahevaria.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/blog-teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 180
 comments:
   provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -60,7 +60,7 @@ facebook:
   username               : "faizan.vahevaria"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/blog-teaser.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -87,9 +87,9 @@ analytics:
 # Site Author
 author:
   name             : "Faizan Vahevaria"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Ahmedabda, Gujarata - INDIA"
+  avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Web Development and Marketing are on my Passion Plate."
+  location         : "Ahmedabad"
   email            : "faizanvahevaria@gmail.com"
   uri              :
   bitbucket        :
