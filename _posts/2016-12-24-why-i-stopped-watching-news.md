@@ -14,7 +14,7 @@ excerpt: "Really Grateful for receiving this advice at very young age in my life
 
 I have always been doing things before anyone else(the ones I know) does in my age Like, School, Job, Business, Marriage(probably).
 
-Similarly, I stopped watching the news in the early stage of my life. I was just a normal FAT kid but my interested were a bit different than others.
+Similarly, I stopped watching the news in the early stage of my life. I was just a normal FAT kid but my interests were a bit different than others.
 
 I used to watch TV a lot, almost 8-10 hours a day. I was tired of watching the cartoons and other fun stuff. I was more interested in increasing the intelligence.
 Once an old man told me that Reading newspapers and watching news increases the knowledge and I started doing that. **Acquiring Knowledge changes your perception of life.**
