@@ -26,16 +26,14 @@ permalink: /50k-challenge/
     <tr>
       <td>Day{{ day.day }}: {{ day.date | date_to_long_string }}</td>
       <td>{{ day.p }}</td>
-      <td>{{ day.c }}</td>
       <td>{{ day.s }}</td>
     </tr>
     {% endfor %}
 
     <tr>
     <td>Total: </td>
-    <td></td>
-    <td> </td>
-    <td> </td>
+    <td>100</td>
+    <td>100</td>
     </tr>
   </tbody>
 </table>
